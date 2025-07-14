@@ -26,7 +26,7 @@ This website is hosted via GitHub Pages and was made for fun. It’s a light-hea
 
 ## 🙏 Credits
 
-Made by \Uddhav Matholia for my bro **Harshit Jhajharia** — because even legends need a portfolio. 😎
+Made by Uddhav Matholia for my bro **Harshit Jhajharia** — because even legends need a portfolio. 😎
 
 ---
 
