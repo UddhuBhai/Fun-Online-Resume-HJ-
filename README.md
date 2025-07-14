@@ -20,7 +20,6 @@ This website is hosted via GitHub Pages and was made for fun. It’s a light-hea
 ## 🛠️ Tech Stack
 
 * HTML
-* CSS
 * A bit of ✨spice✨
 
 ---
